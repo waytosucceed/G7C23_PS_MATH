@@ -1,0 +1,216 @@
+{
+  "heading": "Triangles",
+  "topics": [
+    {
+      "heading": "Triangles",
+      "questions": [
+        {
+            "questionNo": 1,
+            "question": "Ava pointed to side QR and asked, \"What is the name of the vertex opposite to side QR?\"<br><img width='50%' src='./assests/images/question/1.png'>",
+            "options": [
+                { "text": "P", "image": null },
+                { "text": "Q", "image": null },
+                { "text": "R", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 2,
+            "question": "Ava asked, “What is a triangle whose all sides are equal called?”",
+            "options": [
+                { "text": "a right triangle", "image": null },
+                { "text": "an isosceles triangle", "image": null },
+                { "text": "an equilateral triangle", "image": null },
+                { "text": "an acute triangle", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 3,
+            "question": "The explorers found a triangle with three different sides. \"What type of triangle is this?\" Noah asked.<br><img width='50%' src='./assests/images/question/2.png'>",
+            "options": [
+                { "text": "Isosceles Triangle", "image": null },
+                { "text": "Scalene Triangle", "image": null },
+                { "text": "Equilateral Triangle", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 4,
+            "question": "As Ava, Noah, and Zoe journeyed through Shapewood, they encountered △XYZ at the base of a towering peak. They need to find the largest side of △XYZ.<br><img width='50%' src='./assests/images/question/3.png'>",
+            "options": [
+                { "text": "YX", "image": null },
+                { "text": "ZX", "image": null },
+                { "text": "YZ", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 5,
+            "question": "Ava pointed to side PQ and asked, \"What is the name of the vertex opposite to side PQ?\"<br><img width='50%' src='./assests/images/question/4.png'>",
+            "options": [
+                { "text": "P", "image": null },
+                { "text": "R", "image": null },
+                { "text": "Q", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 6,
+            "question": "The explorers examined a triangle shown below. \"Is this triangle isosceles?\"<br><img width='50%' src='./assests/images/question/5.png'>",
+            "options": [
+                { "text": "Yes", "image": null },
+                { "text": "No", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 7,
+            "question": "To unlock the next clue, they had to find the largest angle of △ABC.<br><img width='50%' src='./assests/images/question/6.png'>",
+            "options": [
+                { "text": "∠B", "image": null },
+                { "text": "∠A", "image": null },
+                { "text": "∠C", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 8,
+            "question": "Ava noticed another triangle where two sides were equal. \"What type of triangle is this?\" she asked.<br><img width='50%' src='./assests/images/question/7.png'>",
+            "options": [
+                { "text": "Equilateral Triangle", "image": null },
+                { "text": "Scalene Triangle", "image": null },
+                { "text": "Isosceles Triangle", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 9,
+            "question": "They encountered yet another diagram requiring them to find the value of x.<br><img width='50%' src='./assests/images/question/8.png'>",
+            "options": [
+                { "text": "60°", "image": null },
+                { "text": "50°", "image": null },
+                { "text": "30°", "image": null },
+                { "text": "40°", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 10,
+            "question": "Zoe drew a triangle shown below. \"What kind of triangle is this?\" she asked.<br><img width='50%' src='./assests/images/question/9.png'>",
+            "options": [
+                { "text": "Acute triangle", "image": null },
+                { "text": "Right Angled triangle", "image": null },
+                { "text": "Obtuse triangle", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 11,
+            "question": "During their trek, Ava, Noah, and Zoe found Triangle ABC marked on an ancient tree. To navigate through the forest, they needed to know the largest side of △ABC.<br><img width='50%' src='./assests/images/question/10.png'>",
+            "options": [
+                { "text": "AB", "image": null },
+                { "text": "BC", "image": null },
+                { "text": "AC", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 12,
+            "question": "Noah drew a triangle with one angle of exactly 90°. \"What kind of triangle is this?\" he asked.<br><img width='50%' src='./assests/images/question/11.png'>",
+            "options": [
+                { "text": "Acute triangle", "image": null },
+                { "text": "Obtuse triangle", "image": null },
+                { "text": "Right Angled triangle", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 13,
+            "question": "While crossing a river, Ava, Noah, and Zoe saw a diagram engraved on a stone. To find the safe path, they needed to determine the unknown exterior angle x.<br><img width='50%' src='./assests/images/question/12.png'>",
+            "options": [
+                { "text": "140°", "image": null },
+                { "text": "160°", "image": null },
+                { "text": "150°", "image": null },
+                { "text": "170°", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 14,
+            "question": "As they continued their journey, they stumbled upon another triangle diagram with an unknown angle a. Find the value of the unknown angle a?<br><img width='50%' src='./assests/images/question/13.png'>",
+            "options": [
+                { "text": "40°", "image": null },
+                { "text": "50°", "image": null },
+                { "text": "30°", "image": null },
+                { "text": "60°", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 15,
+            "question": "Elder Sage posed a challenging question to test the explorers' understanding of triangles. Is it possible to have a triangle with sides 5 cm, 7 cm, and 11 cm?",
+            "options": [
+                { "text": "Yes", "image": null },
+                { "text": "No", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 16,
+            "question": "They found another triangle diagram with an unknown angle x. Solving it was crucial to finding their next clue.<br><img width='50%' src='./assests/images/question/14.png'>",
+            "options": [
+                { "text": "70°", "image": null },
+                { "text": "60°", "image": null },
+                { "text": "30°", "image": null },
+                { "text": "40°", "image": null }
+            ],
+            "answer": 2
+        },
+        {
+            "questionNo": 17,
+            "question": "At the entrance of a secret cave, the explorers faced a diagram with unknown angles. Calculate the unknown exterior angle x to unlock the cave door.<br><img width='50%' src='./assests/images/question/15.png'>",
+            "options": [
+                { "text": "120°", "image": null },
+                { "text": "130°", "image": null },
+                { "text": "110°", "image": null },
+                { "text": "100°", "image": null }
+            ],
+            "answer": 0
+        },
+        {
+            "questionNo": 18,
+            "question": "Zoe spotted a triangle shown below in the figure. \"What type of triangle is this?\" she asked.<br><img width='50%' src='./assests/images/question/16.png'>",
+            "options": [
+                { "text": "Acute Triangle", "image": null },
+                { "text": "Right Angled Triangle", "image": null },
+                { "text": "Obtuse Triangle", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 19,
+            "question": "Facing another puzzle, the explorers needed to verify the properties of Triangle ΔABC. Which of the given conditions holds?",
+            "options": [
+                { "text": "AB − BC > CA", "image": null },
+                { "text": "AB - BC < CA", "image": null },
+                { "text": "AB + BC < CA", "image": null },
+                { "text": "AB + CA < BC", "image": null }
+            ],
+            "answer": 1
+        },
+        {
+            "questionNo": 20,
+            "question": "Ava drew a triangle as shown below in the figure. \"What kind of triangle is this?\" she asked.<br><img width='50%' src='./assests/images/question/17.png'>",
+            "options": [
+                { "text": "Acute triangle", "image": null },
+                { "text": "Obtuse triangle", "image": null },
+                { "text": "Right Angled triangle", "image": null }
+            ],
+            "answer": 1
+        }
+    ]
+    
+    }
+  ]
+}
